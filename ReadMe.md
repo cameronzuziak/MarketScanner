@@ -36,6 +36,5 @@ in order, to stocks/validstockpics.txt.
 
 ***********************
 
-< img src="graphic.lpg" >
-
+graphic.jpg
 
