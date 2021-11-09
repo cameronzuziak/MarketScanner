@@ -1,4 +1,4 @@
-MARKET SCANNER
+# MARKET SCANNER
 author: Cameron Zuziak
 ***********************
 
