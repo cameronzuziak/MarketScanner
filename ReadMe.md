@@ -35,5 +35,4 @@ Valid stocks will be outputted into the terminal. Stocks will also be printed,
 in order, to stocks/validstockpics.txt. 
 
 ***********************
-
-https://raw.githubusercontent.com/cameronzuziak/MarketScanner/main/graphic.jpg 
+![graphic](https://user-images.githubusercontent.com/93697431/140867221-50ed6f83-b5d8-40d3-8bf4-ac45a8ed0d42.jpg)
