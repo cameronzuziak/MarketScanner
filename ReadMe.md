@@ -36,5 +36,4 @@ in order, to stocks/validstockpics.txt.
 
 ***********************
 
-graphic.jpg
-
+https://raw.githubusercontent.com/cameronzuziak/MarketScanner/main/graphic.jpg 
